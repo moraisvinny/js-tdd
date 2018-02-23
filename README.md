@@ -57,7 +57,7 @@ npm test
 
 Your Name – [@YourTwitter](https://twitter.com/dbader_org) – YourEmail@example.com
 
-Distributed under the XYZ license. See (LICENSE.md) for more information.
+Distributed under the XYZ license. See [LICENSE](LICENSE.md) for more information.
 
 [https://github.com/yourname/github-link](https://github.com/dbader/)
 
